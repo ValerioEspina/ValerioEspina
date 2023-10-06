@@ -1,4 +1,4 @@
-### Hi there! Welcome to my github ![image](https://github.com/ValerioEspina/ValerioEspina/assets/77851682/320adfef-87b3-49a7-bca8-c0f2fe0ec237)
+### Hi there! Welcome to my github ![image]([https://github.com/ValerioEspina/ValerioEspina/assets/77851682/320adfef-87b3-49a7-bca8-c0f2fe0ec237)](https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif)
  Currently a fullstack & aws student
 
 <!--
