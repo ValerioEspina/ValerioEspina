@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! Welcome to my github 👋 Currently a fullstack & aws student
 
 <!--
 **ValerioEspina/ValerioEspina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
