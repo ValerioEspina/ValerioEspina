@@ -1,4 +1,5 @@
-### Hi there! Welcome to my github 👋 Currently a fullstack & aws student
+### Hi there! Welcome to my github ![image](https://github.com/ValerioEspina/ValerioEspina/assets/77851682/320adfef-87b3-49a7-bca8-c0f2fe0ec237)
+ Currently a fullstack & aws student
 
 <!--
 **ValerioEspina/ValerioEspina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
