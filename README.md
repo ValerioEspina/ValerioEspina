@@ -1,4 +1,4 @@
-### Hi there! Welcome to my github ![image](https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif)
+### Hi there! Welcome to my github <img src="https://i.gifer.com/origin/0f/0fd379b81bc8023064986c9c45f22253_w200.gif" />
  Currently a fullstack & aws student
 
 <!--
